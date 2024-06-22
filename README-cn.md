@@ -4,7 +4,7 @@
 
 ## GoGoCode 是什么？
 
-chechout b
+chechout b new
 
 [English version of README](README.md)
 
