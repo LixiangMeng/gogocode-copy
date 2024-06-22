@@ -6,6 +6,8 @@
 
 chechout b new
 
+add remote
+
 [English version of README](README.md)
 
 checkout a
